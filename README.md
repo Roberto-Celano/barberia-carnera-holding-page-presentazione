@@ -50,7 +50,7 @@ git clone https://github.com/Roberto-Celano/barberia-carnera-holding-page-presen
 
 ## ⚖️ Licenza
 Questo progetto è distribuito sotto licenza MIT.
-Consulta il file [LICENSE.md] per maggiori dettagli.
+Consulta il file **LICENSE.md** per maggiori dettagli.
 
 ---
 
